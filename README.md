@@ -1,4 +1,5 @@
-### Miriã Fassarella 👋
+### Hi👋,  
+### I'm Miriã 
 
 <!--
 **miriafassarella/miriafassarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
