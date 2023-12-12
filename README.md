@@ -1,5 +1,15 @@
-### Hi👋,  
-### Welcome to my GitHub!
+### Hi, welcome to my GitHub👋
+
+.👨🏻‍💻 **Java Developer** 
+
+.🖥️ **Focused on:** 
+
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+.💬 **Contact me:**
+
+ <a href="https:https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ <a href="mailto:miriafassarella@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <!--
 **miriafassarella/miriafassarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
