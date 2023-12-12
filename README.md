@@ -8,7 +8,7 @@
 
 .💬 **Contact me:**
 
- <a href="https:https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ <a href="https:https:https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="mailto:miriafassarella@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 <!--
