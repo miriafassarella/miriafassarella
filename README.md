@@ -4,7 +4,8 @@
 
 .🖥️ **Focused on:** 
 
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
 
 .💬 **Contact me:**
 
