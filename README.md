@@ -1,13 +1,12 @@
 👋 **Bienvenue sur mon profil GitHub !**
 
 Je suis une développeuse passionnée par le développement backend avec **Java** et **Spring Framework**. Avec la création de projets personnels, je cherche à développer mes compétences techniques et à contribuer à des projets collaboratifs.
-À la recherche de nouveaux défis, je suis motivée par l’apprentissage continu et la résolution de problèmes complexes.
+À la recherche de nouveaux défis, je suis motivée par l’apprentissage continu et la résolution de problèmes complexes.  
+📧 **Email**: [miria@fassarella.dev](mailto:miria@fassarella.dev)
 
 
-<a href="mailto:miria@fassarella.dev">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email"/>
-</a>
- <a href="https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  
 
 <!--
