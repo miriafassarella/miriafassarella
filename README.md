@@ -1,13 +1,6 @@
-👋### Bienvenue sur mon profil GitHub!
+👋 **Bienvenue sur mon profil GitHub !**
 
-👨🏻‍💻 **Java Developer** 
-
-🖥️ **Focused on:** 
-
-<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-
-💬 **Contact me:**
+Je suis un développeuse passionnée spécialisée en Java et en Spring Framework. Toujours à la recherche de nouveaux défis, je suis motivée par l’apprentissage continu et la résolution de problèmes complexes.
 
  <a href="mailto:miria@fassarella.dev"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
  <a href="https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
