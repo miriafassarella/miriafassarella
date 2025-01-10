@@ -1,6 +1,6 @@
 👋 **Bienvenue sur mon profil GitHub !**
 
-Je suis une développeuse passionnée par le développement backend avec Java et Spring Framework. Avec la création de projets personnels, je cherche à développer mes compétences techniques et à contribuer à des projets collaboratifs.
+Je suis une développeuse passionnée par le développement backend avec **Java** et **Spring Framework**. Avec la création de projets personnels, je cherche à développer mes compétences techniques et à contribuer à des projets collaboratifs.
 À la recherche de nouveaux défis, je suis motivée par l’apprentissage continu et la résolution de problèmes complexes.
 
  <a href="https://www.linkedin.com/in/miriafassarella/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
